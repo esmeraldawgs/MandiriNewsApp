@@ -13,5 +13,5 @@ Implemented LazyColumn with pagination
 
 ### Additional Features (Self-Initiated)
 ✨ **Enhanced User Experience**  
-- 🔄 Pull-to-refresh with animated rotation
+- 🔄 Refresh button with animated rotation
 - 🔍 Real-time search (title/description/content)
